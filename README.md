@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React or any frontend Tech**
 
-- 📝 I regularly write articles on [https://sahoo.hashnode.dev/routing-guard-in-angular-router](https://sahoo.hashnode.dev/routing-guard-in-angular-router)
+- 📝 I regularly write articles on https://sahoo.hashnode.dev/routing-guard-in-angular-router](https://sahoo.hashnode.dev/routing-guard-in-angular-router
 
 - 💬 Ask me about **Angular,Js, HTML,TypeScript**
 
